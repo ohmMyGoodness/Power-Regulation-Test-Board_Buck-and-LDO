@@ -25,4 +25,4 @@ Project Outputs*/
 *.PrjMbdStructure
 
 # Folder to save each comparison results
-CompareHistory/
+CompareHistory/original_repository.zip
